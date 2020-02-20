@@ -1,5 +1,17 @@
 #!/bin/bash
-# Setup Script for dev setup. Tested on ubuntu 16.04 till now
+# Setup Script is for a basic dev setup, to get you up and running quickly. Tested on mac OS Mojave till now.
+# Installs:
+#	z shell - Way better than the default bash. More info - 1. http://www.zsh.org/  2. https://www.howtogeek.com/362409/what-is-zsh-and-why-should-you-use-it-instead-of-bash/
+#	ohmzsh - Amazing framework for managing zsh configurations. Really good features like themes and alias. More info - https://ohmyz.sh/
+#	curl - Tool to fetch data from the web.
+#	node - Environment to run javascript natively.
+#	Git - its git.
+#	sdkman - Package manager for all your sdks. Really convenient for managing different versions of sdks. More Info - https://sdkman.io/
+#	visual studio code - Best code editor for frontend. More info - https://code.visualstudio.com/
+#	postman - Making api calls. More info - https://www.postman.com/
+#	intellij communitiy edition - IDE. More info - https://www.jetbrains.com/idea/
+#	sublime-text - Awesome opensource lightweight FAST(almost vim fast) text editor for doodling. More info - https://www.sublimetext.com/
+
 
 
 if [ `echo $SHELL == "/bin/zsh"` ];
