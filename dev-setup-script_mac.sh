@@ -1,5 +1,5 @@
 #!/bin/bash
-# Setup Script is for a basic dev setup, to get you up and running quickly. Tested on mac OS Mojave till now.
+# Setup Script for a basic dev setup, to get you up and running quickly. Tested on mac OS Mojave till now.
 # Installs:
 #	z shell - Way better than the default bash. More info - 1. http://www.zsh.org/  2. https://www.howtogeek.com/362409/what-is-zsh-and-why-should-you-use-it-instead-of-bash/
 #	ohmzsh - Amazing framework for managing zsh configurations. Really good features like themes and alias. More info - https://ohmyz.sh/
